@@ -1,4 +1,9 @@
 # Ewerson Castelo  
-[![Twitter Badge](https://img.shields.io/badge/-@EwersonCastelo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilvaEwer)](https://twitter.com/EwersonCastelo) [![Gmail Badge](https://img.shields.io/badge/-ewersoncastelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewersoncastelo@gmail.com)](mailto:ewersoncastelo@gmail.com)
+ <a href="https://www.linkedin.com/in/ewersoncastelo/" target="_blank" >
+    <img alt="Linkedin - Ewerson Castelo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  </a>
+  <a href="mailto:ewerson.castelo@gmail.com" target="_blank" >
+    <img alt="Email - Ewerson Castelo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  </a>
 
 Living... learning... moving... 🔭 I’m currently working on Mobile Apps... 🕵️‍ hunting for bugs...
